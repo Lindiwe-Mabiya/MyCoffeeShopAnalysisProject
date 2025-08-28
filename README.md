@@ -1,4 +1,4 @@
-## **Coffee** Shop Sales Analysis with SQL, Google looker and Miro visualization**
+## **Coffee** Shop Sales Analysis with SQL, Google looker and Miro visualization
 
 ![Image](https://github.com/user-attachments/assets/b75f1463-bc43-4523-a507-d5881453d97d)
 
