@@ -13,6 +13,10 @@ This repository showcases SQL-based data analysis performed on transactional dat
 </br>
 ## GETTING STARTED
 1. Clone the repository
+<br>
 https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv
-2. Load the sample database schema and data into your preferred SQL environment, In this case -Snowfake was used.
+2. Download raw csv data following the obove link
+3. Create Database, Data Schema and Upload the file into Snowflake table
+4. Go through the Code
+
 
