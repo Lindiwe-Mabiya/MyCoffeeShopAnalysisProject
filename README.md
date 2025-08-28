@@ -4,3 +4,7 @@
 
 Welcome to my Coffee Shop Sales Analysis project.
 This repository showcases SQL-based data analysis performed on transactional data from a coffee shop that has 3 branches in different locations. The main aim is to inspect and derive actionable insights from sales data to improve decision-making processes and find actionable solutions. The analysis focuses on revenue trends, times in which revenue is high or low, branch performance, and operational efficiency.
+<br/>
+## TABLE OF CONTENT
+/1. 
+
