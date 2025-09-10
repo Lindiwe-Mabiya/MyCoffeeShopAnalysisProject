@@ -14,9 +14,9 @@ This repository showcases SQL-based data analysis performed on transactional dat
 6. Getting Started</br>
 7. Contact</br>
 
-3.
+1.
 ## <b>  PROJECT OVERVIEW  </b> </br>
-This project analyses the sales perfomance of a coffee shop that has 3 branches in different location, the products are categorised to identify the most selling product for stock purposes 
+This project analyses the sales perfomance of a coffee shop that has 3 branches in different location, the products are categorised to identify the most selling product for stock purposes, the peak time for business and the times that busniness does not really make much money, the different seasons and its business progressions.
 </br>
 ## 3. PROJECT OBJECTIVES </br>
 1. Revenue Analysis: Calculate total sales, Total Quantity per order/perchase to identify spend group.</br>
@@ -27,8 +27,7 @@ This project analyses the sales perfomance of a coffee shop that has 3 branches 
 6. Visualize Trends: Further explore through visualization-ready data (google Looker studio.</br>
 </br>
 ## 6. GETTING STARTED
-1. Clone the repository<br>
-https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv<br>
+1. <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv">Clone the repository</a><br>
 2. Download and go through the project specification on the link: https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/commit/00e4adb35fa12dec36974e3fc7eb0ab546ef7359 </br>
 2. Download raw csv data following the obove link<br>
 3. Create Database, Data Schema and Upload the file into Snowflake table<br>
