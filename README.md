@@ -25,7 +25,7 @@ This project analyses the sales perfomance of a coffee shop that has 3 branches 
 6. Visualize Trends: Further explore through visualization-ready data (google Looker studio.</br>
 </br>
 
-## 3. <b> **FUTURE ENHANCEMENTS ** </b> </br>
+## 3. <b> FUTURE ENHANCEMENTS  </b> </br>
 Predictive Analysis: Implement machine learning models for forecasting sales trends.
 Customer Insights: Integrate demographic data to understand and segment customer behavior.
 Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for real-time insights.
@@ -33,6 +33,8 @@ Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for 
 
 ## 4. <b>  GETTING STARTED   </b> </br>
 1. Clone the repository  <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv">HERE</a><br>
+2. Go through this project plan <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Coffee%20Shop%20Analysis%20SQL%20Code
+">
 2. Download and go through the project specification on the : 
 <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Bright%20Coffee%20Shop%20Sales%20Analysis%20(BRIGHTLIGHT).pdf">LINK</a> </br>
 2. Download the innicial sourse csv<a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv"> HERE</a> <br>
