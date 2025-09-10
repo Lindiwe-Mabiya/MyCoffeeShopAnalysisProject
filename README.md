@@ -32,7 +32,7 @@ This project analyses the sales perfomance of a coffee shop that has 3 branches 
 <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Bright%20Coffee%20Shop%20Sales%20Analysis%20(BRIGHTLIGHT).pdf">LINK</a> </br>
 2. Download the innicial sourse csv<a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv"> HERE</a> <br>
 3. Create Database, Data Schema and Upload the file into Snowflake table. <a href="https://app.snowflake.com/">Snowflake</a><br>
-4. Go through the Code
+4. Go through the Code 
 
 
 
