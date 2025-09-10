@@ -43,7 +43,8 @@ Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for 
 ">SQL Code</a>. Copy and paste the code on to the snowflake worksheet</br>
 5. The downloaded the cleaned excel file:  <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/My%20Coffee%20Shop.xlsx
 ">Excel File </a>. </br>
-6. Some Excels forcefully include ";" instead of "," which makes it difficult for Google looker to read the file. convert the file to notepad, replace the ";" with "," then import the notepad to the looker studio. <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/commit/c4dbc9731d987bcafff15061cfe856db8757a80b#diff-f5c9f49509e0924b1e00565a98afd261a4ae75fac4125cbff7b5ab65cc55f9e0"> Notepad </a>
+6. Some Excels forcefully include ";" instead of "," which makes it difficult for Google looker to read the file. convert the file to notepad, replace the ";" with "," then import the notepad to the looker studio. <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/commit/c4dbc9731d987bcafff15061cfe856db8757a80b#diff-f5c9f49509e0924b1e00565a98afd261a4ae75fac4125cbff7b5ab65cc55f9e0"> Notepad </a></br>
+7. Looker Studio Coffee Shop Dashboard Summary: <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Coffee%20Shop%20Dashboard.pdf"> HERE </a></br>
 
 ## 5. <b> CONTACT </b>
 For any enquiry please contact: <br>
