@@ -26,9 +26,10 @@ This project analyses the sales perfomance of a coffee shop that has 3 branches 
 5. Category Contribution: Analyze which category contributesmore in to the sales revenue.</br>
 6. Visualize Trends: Further explore through visualization-ready data (google Looker studio.</br>
 </br>
-## 6. GETTING STARTED
-1. <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv">Clone the repository</a><br>
-2. Download and go through the project specification on the link: https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/commit/00e4adb35fa12dec36974e3fc7eb0ab546ef7359 </br>
+## 6. GETTING STARTED </br>
+1. Clone the repository<a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv">HERE</a><br>
+2. Download and go through the project specification on the :
+<a href="[https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv](https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/commit/00e4adb35fa12dec36974e3fc7eb0ab546ef7359)">LINK</a> </br>
 2. Download raw csv data following the obove link<br>
 3. Create Database, Data Schema and Upload the file into Snowflake table<br>
 4. Go through the Code
