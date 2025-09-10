@@ -40,7 +40,9 @@ Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for 
 2. Download the innicial sourse csv<a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv"> HERE</a> <br>
 3. Create Database, Data Schema and Upload the file into Snowflake table. <a href="https://app.snowflake.com/">Snowflake</a><br>
 4. Go through the <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Coffee%20Shop%20Analysis%20SQL%20Code
-">SQL Code</a></br>
+">SQL Code</a>. Copy and paste the code on to the snowflake worksheet, make sure that the database, schema and table name are as the code or change the code depending on your table location and name</br>
+5. The downloaded excel after the above code <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/My%20Coffee%20Shop.xlsx
+">Excel File </a>.
 
 ## 5. <b> CONTACT </b>
 For any enquiry please contact: <br>
