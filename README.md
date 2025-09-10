@@ -10,7 +10,7 @@ This repository showcases SQL-based data analysis performed on transactional dat
 2. Project Objectives</br>
 3. Future Enhancements</br>
 4. Getting Started</br>
-7. Contact</br>
+5. Contact</br>
 
 1.
 ## <b>  PROJECT OVERVIEW  </b> </br>
@@ -43,6 +43,8 @@ Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for 
 ">SQL Code</a></br>
 
 ## 5. <b> CONTACT </b>
+For any enquiry please contact: <br>
+<a href="mailto:lindiwemabiya@gmail.com">lindiwemabiya@gmail.com</a> 
 
 
 
