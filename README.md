@@ -15,7 +15,8 @@ This repository showcases SQL-based data analysis performed on transactional dat
 7. Contact</br>
 
 </br>
-3.##  PROJECT OVERVIEW </br>
+3.
+## <b> PROJECT OVERVIEW </b> </br>
 This project analyses the sales perfomance of a coffee shop that has 3 branches in different location, the products are categorised to identify the most selling product for stock purposes 
 </br>
 ## 3. PROJECT OBJECTIVES </br>
