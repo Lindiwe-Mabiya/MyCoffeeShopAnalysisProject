@@ -13,10 +13,10 @@ This repository showcases SQL-based data analysis performed on transactional dat
 7. Contact</br>
 
 1.
-## <b>  PROJECT OVERVIEW  </b> </br>
+## <b> ** PROJECT OVERVIEW ** </b> </br>
 This project analyses the sales perfomance of a coffee shop that has 3 branches in different location, the products are categorised to identify the most selling product for stock purposes, the peak time for business and the times that busniness does not really make much money, the different seasons and its business progressions.
 </br>
-## 2. <b> PROJECT OBJECTIVES </b> </br> 
+## 2. <b> ** PROJECT OBJECTIVES ** </b> </br> 
 1. Revenue Analysis: Calculate total sales, Total Quantity per order/perchase to identify spend group.</br>
 2. Visitor Trends: Identify peak hours group, most-performing days, and spend group (high spend, medium or low).</br>
 3. Store Performance: Compare revenue rates depending on the 3 locations (Lower Manhattan, Hell's Kitchen, and Astoria).</br>
