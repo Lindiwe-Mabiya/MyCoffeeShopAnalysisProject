@@ -33,7 +33,7 @@ Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for 
 
 ## 4. <b>  GETTING STARTED   </b> </br>
 1. Clone the repository  <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/e856b91c036d35132c09260615f8fa95f1a8312f/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv">HERE</a><br>
-2. Go through this project plan <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Miro%20project%20plan.jpg
+2. Go through this project plan <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Miro%20Project%20Plan.jpg
 ">HERE</a> made with <a href="https://miro.com/?rel=%22nofollow%22&irclickid=SLDxGOyUCxycTFf13l3hjWCKUkpwEuVPWQAMWg0&utm_source=THINK%20DIGITAL&utm_medium=cpa&utm_campaign=&utm_affiliate_network=impact&utm_custom=&irgwc=1&gad_source=1&gad_campaignid=22932067154&gbraid=0AAAABBNNSaLviVSnQ78XTvixKPy9xwzjl&gclid=Cj0KCQjww4TGBhCKARIsAFLXndTiD-y1wIDn1dLqIbsPwQLdnm_Q4aafTTcDpjoBo-idNM90x5AxlrIaAgH4EALw_wcB">Miro</a>
 2. Download and go through the project specification on the : 
 <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Bright%20Coffee%20Shop%20Sales%20Analysis%20(BRIGHTLIGHT).pdf">LINK</a> </br>
