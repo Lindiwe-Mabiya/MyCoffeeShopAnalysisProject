@@ -37,7 +37,9 @@ Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for 
 ">HERE</a> made with <a href="https://miro.com/?rel=%22nofollow%22&irclickid=SLDxGOyUCxycTFf13l3hjWCKUkpwEuVPWQAMWg0&utm_source=THINK%20DIGITAL&utm_medium=cpa&utm_campaign=&utm_affiliate_network=impact&utm_custom=&irgwc=1&gad_source=1&gad_campaignid=22932067154&gbraid=0AAAABBNNSaLviVSnQ78XTvixKPy9xwzjl&gclid=Cj0KCQjww4TGBhCKARIsAFLXndTiD-y1wIDn1dLqIbsPwQLdnm_Q4aafTTcDpjoBo-idNM90x5AxlrIaAgH4EALw_wcB">Miro</a>
 2. Download and go through the project specification on the : 
 <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Project%20Specification.pdf">LINK</a> </br>
-2. Download the innitial sourse csv<a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions.csv"> HERE</a> <br>
+2. Download the innitial sourse csv<a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Raw%20%20Data.csv
+"> Excel  </a> File. If File does not open as expected open the <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Raw%20Data.txt
+">Notepad </a> File, Download it and open with Excel </br>
 3. Create Database, Data Schema and Upload the file into Snowflake table. <a href="https://app.snowflake.com/">Snowflake</a><br>
 4. Go through the <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/SQL%20Code.sql
 ">SQL Code</a>. Copy and paste the code on to the snowflake worksheet</br>
