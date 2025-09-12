@@ -42,7 +42,8 @@ Real-Time Dashboards: Leverage visualization tools like Tableau or Power BI for 
 4. Go through the <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/SQL%20Code.sql
 ">SQL Code</a>. Copy and paste the code on to the snowflake worksheet</br>
 5. The downloaded the cleaned excel file:  <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Clean%20Data%20%20Source.csv
-">Excel File </a>. </br>
+">Excel File </a>. If File does not open as expected open the <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Clean%20Source%20Data.txt
+">Notepad File</a> Download it and open as Excel </br>
 6. Some Excels forcefully include ";" instead of "," which makes it difficult for Google looker to read the file. convert the file to notepad, replace the ";" with "," then import the notepad to the looker studio. <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/commit/c4dbc9731d987bcafff15061cfe856db8757a80b#diff-f5c9f49509e0924b1e00565a98afd261a4ae75fac4125cbff7b5ab65cc55f9e0"> Notepad </a></br>
 7. Looker Studio Coffee Shop Sales Performance Dashboard Summary: <a href="https://github.com/Lindiwe-Mabiya/MyCoffeeShopAnalysisProject/blob/main/Coffee%20Shop%20Dashboard.pdf"> HERE </a></br>
 
